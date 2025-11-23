@@ -9,3 +9,7 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
+color_echo	github-host.sh	/^color_echo() {$/;"	f
+get_fastest_ip	github-host.sh	/^get_fastest_ip() {$/;"	f
+resolve_dns	github-host.sh	/^resolve_dns() {$/;"	f
+test_tcp_connection	github-host.sh	/^test_tcp_connection() {$/;"	f
