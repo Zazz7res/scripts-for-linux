@@ -1,0 +1,8 @@
+
+# === 基础与字体设置 ===
+font_family      JetBrainsMono Nerd Font 
+font_size        13.0
+bold_font        Ultra-Bold
+italic_font      Ultra-Bold
+bold_italic_font Ultra-Bold
+disable_ligatures never
